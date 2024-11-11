@@ -41,7 +41,7 @@ for i in iter2:
     print()
 for i in iter3:
     print(i, end=' ')
-print()
+    print()
 for i in iter4:
     print(i, end=' ')
     print()
